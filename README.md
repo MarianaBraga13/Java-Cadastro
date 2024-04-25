@@ -1,2 +1,2 @@
 # LearningMode
-Learning mode for: Python, JAVA, C#, SQL, JavaScript, Docker, AWS and others
+Learning mode for:JAVA, React, JavaScript, PostgreSQL
